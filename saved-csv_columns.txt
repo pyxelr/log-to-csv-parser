@@ -1,0 +1,2 @@
+date,time,vehicle_id,speed,street_id
+vehicle_id,speed,street_id
